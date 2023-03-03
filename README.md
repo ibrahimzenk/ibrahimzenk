@@ -11,7 +11,7 @@
 ###
 
 <!--<div align="left">
-  <img src="https://spotify.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  /> 
 </div>-->
 
 ###
