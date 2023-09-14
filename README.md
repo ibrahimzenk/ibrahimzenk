@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="300" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  />
+<img align="right" height="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"  />
+<!--<img align="right" height="300" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  />-->
 
 ###
 
@@ -15,10 +16,10 @@
 </div>-->
 
 ###
-<div align="left">
+<!--<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&username=ibrahimzenk" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&username=ibrahimzenk" height="150" alt="languages graph"  />
-</div>
+</div>-->
 
 ###
 
